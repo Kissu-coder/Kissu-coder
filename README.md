@@ -7,7 +7,7 @@
 
 - 🥴 I am currently learning something idk.
 - 🦆 I am currently improving my skills.
-- ⚡ Fun fact : I love to read ebooks and play badminton. (Weird set of hobbies 🤣)
+- ⚡ Fun fact : I love to read e-books and play badminton. (Weird set of hobbies 🤣)
 
 ## Languages/Frameworks I know (maybe) and the tools I use :
 - [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">]("https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5")
