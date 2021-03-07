@@ -6,7 +6,7 @@
 <hr>
 
 - 🥴 I am currently learning something idk.
-- 🦆 I am currently imrpoving my skiils.
+- 🦆 I am currently improving my skills.
 - ⚡ Fun fact : I love to read mangas and play badminton. (Weird set of hobbies 🤣)
 
 ## Languages/Frameworks I know (maybe) and the tools I use :
